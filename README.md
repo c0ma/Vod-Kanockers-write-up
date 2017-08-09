@@ -32,6 +32,8 @@ def main():
 
 main()
 ```
+When I ran the script, the flag appeared quite quickly.
 
+![alt text](https://i.imgur.com/g7HWJXJ.png)
 
 
