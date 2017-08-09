@@ -7,7 +7,7 @@ When I checked the source code, I found the following comment:
 After searching google for a while I understood that this probably had something to do with with "Port Knocking" and I found a write-up on another CTF challange related to "Port Knocking": https://f4l13n5n0w.github.io/blog/2015/06/21/vulnhub-knock-knock-1-dot-1/
 
 I did some modifications to F4l13n5n0w's script:
-
+```
 ip = "34.249.81.124"            
 
 def Knockports(ports):
@@ -31,6 +31,7 @@ def main():
   print "[*] Done"
 
 main()
+```
 
 
 
